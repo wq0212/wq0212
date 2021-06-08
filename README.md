@@ -1,6 +1,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212)](https://solved.ac/wq0212)
 [![CodeForces Profile](https://cf.leed.at?id=wq0212)](https://codeforces.com/profile/wq0212)
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=ShinDongJun&fontSize=50&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
