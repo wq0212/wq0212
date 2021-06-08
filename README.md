@@ -1,3 +1,5 @@
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212)](https://solved.ac/wq0212)
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=ShinDongJun&fontSize=50&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -23,5 +25,5 @@
   <a href="mailto:pypystory@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pypystory@gmail.com"/></a>
 </p>
 <br>
- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212)]
+
 
