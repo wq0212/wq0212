@@ -23,6 +23,4 @@
   <a href="mailto:pypystory@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pypystory@gmail.com"/></a>
 </p>
 <br>
-- BOJ [wq0212](https://www.acmicpc.net/user/wq0212)
-
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212](https://solved.ac/wq0212)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212)](https://solved.ac/wq0212/)
