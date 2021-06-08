@@ -23,5 +23,5 @@
   <a href="mailto:pypystory@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pypystory@gmail.com"/></a>
 </p>
 <br>
- [![Solved.ac 프로필] (http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212)] (https://solved.ac/wq0212)
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212)]
 
