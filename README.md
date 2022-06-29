@@ -1,14 +1,6 @@
 <h2 align="center"> 🎈 Shin Dong Jun </h2>
 <hr>
-<div align="center" style="text-align:center">
-  <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212)](https://solved.ac/wq0212)-->
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wq0212&layout=compact)](https://github.com/wq0212/github-readme-stats)
-  <br>
-  <!--[![CodeForces Profile](https://cf.leed.at?id=wq0212)](https://codeforces.com/profile/wq0212)-->
-  
-</div>
-<hr>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -37,4 +29,12 @@
   <a href="https://www.instagram.com/dongjun0212/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:pypystory@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pypystory@gmail.com"/></a>
 </p>
+<br>
+<div align="center" style="text-align:center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wq0212&layout=compact)](https://github.com/wq0212/github-readme-stats)
+<br>
+  
+</div>
+
 <br>
