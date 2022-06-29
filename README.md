@@ -1,8 +1,7 @@
 <h2 align="center"> 🎈 Shin Dong Jun </h2>
 <hr>
 <div align="center" style="text-align:center">
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212)](https://solved.ac/wq0212)
+  <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wq0212)](https://solved.ac/wq0212)-->
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wq0212&layout=compact)](https://github.com/wq0212/github-readme-stats)
   <br>
@@ -28,7 +27,8 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-square&logo=Node.js&logoColor=white">&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/GraphQL-e535ab?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp
 </p>
 <hr>
 <h3 align="center"> 🍒 Me 🍒 </h3>
@@ -38,5 +38,3 @@
   <a href="mailto:pypystory@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pypystory@gmail.com"/></a>
 </p>
 <br>
-
-
